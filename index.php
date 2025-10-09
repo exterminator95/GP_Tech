@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Squadfree - Free bootstrap 3 one page template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="css/animate.css" rel="stylesheet" />
+    <!-- Squad theme CSS -->
+    <link href="css/style.css" rel="stylesheet">
+	<link href="color/default.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+	<!-- Preloader -->
+	<div id="preloader">
+	  <div id="load"></div>
+	</div>
+
+	
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+				<!-- logo -->
+                 <a href="index.php">
+  				<img src="img/main_logo1.png" alt="Icon" width="200" height="50">
+				</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#intro">Home</a></li>
+        <li><a href="#service">Services</a></li>
+		<li><a href="#about">About</a></li>
+		<li><a href="#contact">Contact</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social Media <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="#" target="_blank">Facebook</a></li>
+            <li><a href="#" target="_blank">Whatsapp</a></li>
+            <li><a href="https://www.instagram.com/gp_tech_conglomerate/" target="_blank">Instagram</a></li>
+          </ul>
+        </li>
+      </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+	<!-- Section: intro -->
+    <section id="intro" class="intro">
+	
+		<div class="slogan">
+			<h2>WELCOME TO <span class="text_color">GT Tech</span> </h2>
+			<h4>WHERE YOU WILL NEVER BE DISSAPOINTED</h4>
+		</div>
+		<div class="page-scroll">
+			<a href="#service" class="btn btn-circle">
+				<i class="fa fa-angle-double-down animated"></i>
+			</a>
+		</div>
+    </section>
+	<!-- /Section: intro -->
+
+	<!-- Section: services -->
+    <section id="service" class="home-section text-center bg-gray">
+		
+		<div class="heading-about">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Our Services</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+        <div class="row">
+            <div class="col-sm-3 col-md-3">
+				<div class="wow fadeInLeft" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/printing.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Print</h5>
+						<p>High-quality, affordable printing services that bring your ideas to life—fast, reliable, and professional.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/web_design.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Web Design</h5>
+						<p>Modern, responsive web design that captures your brand and converts visitors into loyal customers.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/photography.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Photography</h5>
+						<p>Professional photography that captures emotion, tells your story, and makes every moment unforgettable.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInRight" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/mobile_app_design.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Mobile App Design</h5>
+						<p>Intuitive, user-focused mobile app design that drives engagement, boosts usability, and enhances your brand.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+        </div>	
+		<hr>
+
+		<div class="row">
+            <div class="col-sm-3 col-md-3">
+				<div class="wow fadeInLeft" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/ai_images.jpeg" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>AI Image & Video Generation</h5>
+						<p>Create stunning images and videos instantly with AI—fast, creative, and endlessly customizable content.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/graphic_design.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Graphic Design</h5>
+						<p>Creative graphic design that transforms ideas into visually stunning, memorable, and impactful brand experiences.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInUp" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/3d_modeling.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>3D Modeling</h5>
+						<p>Precision 3D modeling that brings your concepts to life with realistic detail and innovation.</p>
+					</div>
+                </div>
+				</div>
+            </div>
+			<div class="col-sm-3 col-md-3">
+				<div class="wow fadeInRight" data-wow-delay="0.2s">
+                <div class="service-box">
+					<div class="service-icon">
+						<img src="img/icons/animation.png" alt="" />
+					</div>
+					<div class="service-desc">
+						<h5>Video Editing & Animations</h5>
+						<p>Professional video editing and animations that captivate audiences and bring your stories and marketing videos to life </p>
+					</div>
+                </div>
+				</div>
+            </div>
+        </div>		
+		</div>
+	</section>
+	<!-- /Section: services -->
+	<!-- Section: about -->
+<section id="about" class="home-section text-center">
+  <div class="heading-about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+            <div class="section-heading">
+              <h2>About us</h2>
+              <i class="fa fa-2x fa-angle-down"></i>
+            </div>
+          </div>
+          <!-- About Us Text Start -->
+          <div class="about-content text-left" style="margin-top: 30px;">
+            <p><strong>At GP Tech</strong>, we bring innovation, creativity, and technology together to craft powerful digital experiences that move brands forward.
+			Founded with a mission to bridge the gap between visual storytelling and smart technology, GP Tech delivers a comprehensive range of services — from 
+			stunning visual content to advanced digital solutions. Whether you're a startup, an established brand, or a creative agency, we're here to help you transform ideas into impactful digital realities.</p>
+            <p>We specialize in delivering end-to-end creative and digital solutions tailored to today’s fast-moving landscape. Our expertise spans <strong>website design and development</strong>, 
+			<strong>mobile app design</strong>, and <strong>graphic design</strong>, ensuring seamless and engaging user experiences across every screen. We offer high-quality <strong>photography</strong>, 
+			<strong>video editing</strong>, <strong>3D modeling</strong>, and <strong>animation services</strong> to help brands communicate visually with impact. </p>
+				<p>Pushing the boundaries of creativity and technology, we also provide <strong>AI-powered image and video generation</strong> for fast, scalable content creation. And for offline needs, 
+				our <strong>print design</strong> services cover everything from business cards to brochures — ensuring your brand identity is strong in both digital and physical spaces.</p>
+
+			</p>
+
+          </div>
+          <!-- About Us Text End -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Section: about -->
+
+	
+
+	
+
+	<!-- Section: contact -->
+    <section id="contact" class="home-section text-center">
+		<div class="heading-contact">
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Get in touch</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		<div class="container">
+
+		<div class="row">
+			<div class="col-lg-2 col-lg-offset-5">
+				<hr class="marginbot-50">
+			</div>
+		</div>
+    <div class="row">
+        <div class="col-lg-8">
+    <div class="boxed-grey">
+        <form id="contact-form" onsubmit="sendEmail(event)">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <div class="input-group">
+                            <span class="input-group-addon">
+                                <span class="glyphicon glyphicon-envelope"></span>
+                            </span>
+                            <input type="email" class="form-control" id="email" placeholder="Enter email" required="required" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <select id="subject" name="subject" class="form-control" required="required">
+                            <option value="na" selected="">Choose One:</option>
+                            <option value="General Customer Service">General Customer Service</option>
+                            <option value="Suggestions">Suggestions</option>
+                            <option value="Product Support">Product Support</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
+                            placeholder="Message"></textarea>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <button type="submit" class="btn btn-skin pull-right" id="btnContactUs">
+                        Send Message
+                    </button>
+                </div>
+            </div>
+        </form>
+
+        <!-- Email Script -->
+        <script>
+            function sendEmail(event) {
+                event.preventDefault(); // Stop the form from submitting
+
+                const name = document.getElementById("name").value.trim();
+                const email = document.getElementById("email").value.trim();
+                const subject = document.getElementById("subject").value;
+                const message = document.getElementById("message").value.trim();
+
+                const mailto = `mailto:Tuxa95@proton.me?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+                    "Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message
+                )}`;
+
+                window.location.href = mailto;
+            }
+        </script>
+    </div>
+</div>
+
+	
+		<div class="col-lg-4">
+			<div class="widget-contact">
+				<h5>Main Office</h5>
+				
+				<address>
+				  <strong>GT Tech, Inc.</strong><br>
+				  Khomasdal Windhoek Namibia<br>
+				  <br>
+				  <abbr title="Phone">P:</abbr> (+264) 456-7890
+				</address>
+
+				<address>
+				  <strong>Email</strong><br>
+				  <a href="mailto:#">Tuxa95@proton.me</a>
+				</address>	
+				<address>
+				  <strong>We're on social networks</strong><br>
+                       	<ul class="company-social">
+                            <li class="social-facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
+                            <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                        </ul>	
+				</address>					
+			
+			</div>	
+		</div>
+		<!-- main office detials-->
+    </div>	
+	
+
+		</div>
+	</section>
+	<!-- /Section: contact -->
+
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-lg-12">
+					<div class="wow shake" data-wow-delay="0.4s">
+					<div class="page-scroll marginbot-30">
+						<a href="#intro" id="totop" class="btn btn-circle">
+							<i class="fa fa-angle-double-up animated"></i>
+						</a>
+					</div>
+					</div>
+					<p>&copy;GP Tech 2025. All rights reserved.</p>
+				</div>
+			</div>	
+		</div>
+	</footer>
+
+    <!-- Core JavaScript Files -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>	
+	<script src="js/jquery.scrollTo.js"></script>
+	<script src="js/wow.min.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
